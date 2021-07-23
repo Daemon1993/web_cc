@@ -1,7 +1,6 @@
 ## Web 学习 实践  
 
-> 一直在做Android开发  18年项目中用过ReactNative 当时挺熟练的 几年没写忘得差不多了   
-<br>
+> 一直在做Android开发  18年项目中用过大半年的ReactNative来做移动端的开发  但是几年没写忘得差不多了   
 个人技术栈     
 <br>
 主业Android   
