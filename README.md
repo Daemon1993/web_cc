@@ -4,9 +4,9 @@
 
 >个人技术栈     
 主业Android   
-Java后台基于Springboot也能写点简单的后台    
-Python 平时写写脚本  
-微信小程序开发   
+Java后台基于Springboot也能写点简单的后台(一个公司项目经验)   
+Python 平时写写脚本
+微信小程序开发  
 最近回长沙了   看了看长沙的岗位和个人实际情况  打算转前端开发  记录学习过程  因为有RN的基础  先从React开始了
 
 ## [JavaScript 基础](https://github.com/Daemon1993/web_cc/blob/master/Js-base.md)
